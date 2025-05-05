@@ -33,6 +33,16 @@
 
 ---
 
+### 🎯 Objetivos e Pretensões
+
+- 📘 Aprofundar meus conhecimentos em **Matemática** e **Física**, construindo uma base sólida para resolver problemas complexos e aplicar conceitos teóricos na prática.
+- 🔌 Estudar **Eletrônica Básica**, com foco em circuitos, sensores e microcontroladores, conectando software e hardware.
+- 🌐 Evoluir como desenvolvedor **Fullstack**, aprendendo frameworks modernos de frontend e backend, além de boas práticas de desenvolvimento web.
+- 🧠 Desenvolver pensamento lógico e analítico para aplicar em projetos interdisciplinares envolvendo **programação, exatas e engenharia**.
+- 🚀 Contribuir com projetos open source e colaborar em iniciativas educacionais que envolvam tecnologia e ciência.
+
+---
+
 ### 📈 Estatísticas GitHub
 
 <p align="center">
